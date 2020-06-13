@@ -2,7 +2,7 @@
 *Meu-email: Gilson.gbj@gmail.com*
 
 <h1 align="center"><figure>
-  <img src="Link da imagen">
+  <img src="https://github.com/JUNIORGBJ/Splatoon_2_PT-BR/blob/master/Splaton2_logo.jpg">
 </figure></h1>
 
 
