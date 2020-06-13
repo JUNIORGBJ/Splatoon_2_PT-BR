@@ -27,4 +27,12 @@ Este projeto irá ajudar muitas pessoas a entender melhor a história do jogo, p
 
 - **ATMOSPHERE:** Colar a pasta ```ATMOSPHERE``` dentro do MicroSD e iniciar o jogo normalmente.
 
+## Ferramentas Ultilizadas
+
+- [Karameru](https://github.com/IcySon55/Kuriimu)
+- [Kuriimu](https://github.com/IcySon55/Kuriimu)
+- [MSBT Editor](https://github.com/IcySon55/3DLandMSBTeditor)
+
+
+
 Obrigado!:wave:
