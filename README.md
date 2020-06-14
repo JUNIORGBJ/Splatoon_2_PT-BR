@@ -6,7 +6,7 @@
 </figure></h1>
 
 
-## Sobre a Tradução
+## Sobre a Tradução.
 
 O objetivo do projeto é:
 
