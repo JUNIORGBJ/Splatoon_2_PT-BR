@@ -1,6 +1,8 @@
 
 *Meu-email: Gilson.gbj@gmail.com*
 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/JUNIORGBJ/Splatoon_2_PT-BR)
+
 <h1 align="center"><figure>
   <img src="https://github.com/JUNIORGBJ/Splatoon_2_PT-BR/blob/master/Splaton2_logo.jpg">
 </figure></h1>
