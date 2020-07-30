@@ -2,7 +2,7 @@
 *:e-mail: Gilson.gbj@gmail.com*
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/JUNIORGBJ/Splatoon_2_PT-BR)](https://github.com/JUNIORGBJ/Splatoon_2_PT-BR/releases/latest)
-[![GBJ Traduções](https://img.shields.io/badge/‹%20Traduções%20GBJ›-c14438?style=flat&logo=Nintendo%20Switch&logoColor=white)](https://github.com/JUNIORGBJ)
+[![GBJ Traduções](https://img.shields.io/badge/‹Traduções%20GBJ›-c14438?style=flat&logo=Nintendo%20Switch&logoColor=white)](https://github.com/JUNIORGBJ)
 
 <h1 align="center"><figure>
   <img src="https://github.com/JUNIORGBJ/Splatoon_2_PT-BR/blob/master/Splaton2_logo.jpg">
