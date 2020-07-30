@@ -1,5 +1,5 @@
 
-*Meu-email: Gilson.gbj@gmail.com*
+*:e-mail: Gilson.gbj@gmail.com*
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/JUNIORGBJ/Splatoon_2_PT-BR)](https://github.com/JUNIORGBJ/Splatoon_2_PT-BR/releases/latest)
 
