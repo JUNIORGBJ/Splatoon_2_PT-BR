@@ -21,7 +21,7 @@ Este projeto irá ajudar muitas pessoas a entender melhor a história do jogo, p
 
 ## Requerimentos
 
-- Obrigatório o update Ver 5.2.0 (v2818048)
+- Obrigatório o update Ver 5.4.0 (v3145728)
 - Nintendo Switch Debloqueado - SXOS ou ATMOSPHERE>
 
 ## Instalação
