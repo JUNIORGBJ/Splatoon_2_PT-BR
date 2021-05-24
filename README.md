@@ -1,5 +1,6 @@
 
-*:e-mail: Gilson.gbj@gmail.com*
+[![GitHub issues](https://img.shields.io/github/issues-raw/JUNIORGBJ/Splatoon_2_PT-BR?label=Enviar%20mensagem%20ao%20ADM&style=for-the-badge)](https://github.com/JUNIORGBJ/Splatoon_2_PT-BR/issues)
+
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/JUNIORGBJ/Splatoon_2_PT-BR)](https://github.com/JUNIORGBJ/Splatoon_2_PT-BR/releases/latest)
 [![GBJ Traduções](https://img.shields.io/badge/‹Traduções%20GBJ›-c14438?style=flat&logo=Nintendo%20Switch&logoColor=white)](https://github.com/JUNIORGBJ)
