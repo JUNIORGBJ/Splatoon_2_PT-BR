@@ -2,8 +2,8 @@
 [![GitHub issues](https://img.shields.io/github/issues-raw/JUNIORGBJ/Splatoon_2_PT-BR?label=Enviar%20questões%20ao%20ADM&style=for-the-badge)](https://github.com/JUNIORGBJ/Splatoon_2_PT-BR/issues/new/choose)
 
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/JUNIORGBJ/Splatoon_2_PT-BR)](https://github.com/JUNIORGBJ/Splatoon_2_PT-BR/releases/latest)
-[![GBJ Traduções](https://img.shields.io/badge/‹Traduções%20GBJ›-c14438?style=flat&logo=Nintendo%20Switch&logoColor=white)](https://github.com/JUNIORGBJ)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/JUNIORGBJ/Splatoon_2_PT-BR?style=for-the-badge)](https://github.com/JUNIORGBJ/Splatoon_2_PT-BR/releases/latest)
+[![GBJ Traduções](https://img.shields.io/badge/‹Traduções%20GBJ›-c14438?style=for-the-badge&logo=Nintendo%20Switch&logoColor=white)](https://github.com/JUNIORGBJ)
 
 <h1 align="center"><figure>
   <img src="https://github.com/JUNIORGBJ/Splatoon_2_PT-BR/blob/master/Splaton2_logo.jpg">
