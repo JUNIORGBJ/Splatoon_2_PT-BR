@@ -1,5 +1,5 @@
 
-[![GitHub issues](https://img.shields.io/github/issues-raw/JUNIORGBJ/Splatoon_2_PT-BR?label=Enviar%20mensagem%20ao%20ADM&style=for-the-badge)](https://github.com/JUNIORGBJ/Splatoon_2_PT-BR/issues/new/choose)
+[![GitHub issues](https://img.shields.io/github/issues-raw/JUNIORGBJ/Splatoon_2_PT-BR?label=Enviar%20questões%20ao%20ADM&style=for-the-badge)](https://github.com/JUNIORGBJ/Splatoon_2_PT-BR/issues/new/choose)
 
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/JUNIORGBJ/Splatoon_2_PT-BR)](https://github.com/JUNIORGBJ/Splatoon_2_PT-BR/releases/latest)
